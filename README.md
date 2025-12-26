@@ -46,7 +46,7 @@ creation_rules:
 
 ## 5. Шифрование конфиденциальных данных
 
-Был создан файл `secrets/database.yaml`, содержащий чувствительные данные (логин и пароль).
+Был создан файл `secrets/database.yaml`, содержащий логин и пароль.
 
 data:
   DB_PASSWORD: supersecretpassword
